@@ -1,0 +1,39 @@
+.btn button {
+  color: white;
+  padding: 5px 25px;
+  background-color: #787878;
+  border-radius: 10px;
+  margin-left: 550px;
+  margin-top: 20px;
+}
+.card {
+  margin-top: 50px;
+  margin-left: 550px;
+  width: 100px;
+  border: 1px solid;
+  padding: 10px;
+  box-shadow: 5px 10px #888888;
+}
+.card-text {
+  font-size: 600;
+  font-weight: bold;
+}
+.card-img {
+  height: 450px;
+}
+.card-title {
+  font-size: xx-large;
+  color: #712cf9;
+  font-weight: bold;
+}
+/* .persone { */
+/* background-image: url("https://i.ytimg.com/vi/5BJFCEVx6t0/maxresdefault.jpg"); */
+/* background-repeat: no-repeat; */
+/* background-size: cover; */
+/* } */
+.App {
+  background-image: url("https://i.ytimg.com/vi/5BJFCEVx6t0/maxresdefault.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 100vh;
+}
